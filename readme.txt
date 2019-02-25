@@ -1,1 +1,1 @@
-A test build praticing HTML & CSS responsive design
+A test build practicing html & css responsive design
